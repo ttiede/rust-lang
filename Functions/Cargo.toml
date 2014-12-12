@@ -1,0 +1,9 @@
+[package]
+
+name = "Functions"
+version = "0.0.1"
+authors = [ "tiago Tiede" ]
+
+[[bin]]
+
+name = "Functions"
