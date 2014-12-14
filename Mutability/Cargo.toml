@@ -1,0 +1,9 @@
+[package]
+
+name = "mutability"
+version = "0.0.1"
+authors = [ "tiago Tiede" ]
+
+[[bin]]
+
+name = "mutability"
